@@ -1,11 +1,11 @@
 {
-    "name": "Emergency Services",
-    "short_name": "ICE",
+    "name": "adopt_dog",
+    "short_name": "adopt_dog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A Web Version of the app",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
